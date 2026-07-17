@@ -3,8 +3,8 @@ from telebot import types #to create buttons and keyboards
 import requests #to make requests to TMDB API
 
 
-bot = telebot.TeleBot('8687363218:AAHbRhZerHRqb_CSuRP2MwJT2pu05AhX1oU')
-TMDB_API_KEY = "f9b625f44cf94f62cb3a2f62c2a5db33" #TMDB - this is the movie database
+bot = telebot.TeleBot('TG_BOT_TOKEN')
+TMDB_API_KEY = "TMDB_API_KEY" #TMDB - this is the movie database
 
 
 user_languages = {}
