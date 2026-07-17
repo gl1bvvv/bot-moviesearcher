@@ -1,5 +1,5 @@
 # bot-moviesearcher
-Telegram boT for searching movies and series
+Telegram bot for searching movies and series
 
 So, this my first reasonably serious project for this moment
 
