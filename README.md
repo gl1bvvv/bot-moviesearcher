@@ -8,16 +8,16 @@ Here are the main features of this bot:
 2. You decide what to search movies/series
 3. You can browse the Top 80 movies or TV series 
 4. For each movie or TV series, the bot provides:
-   	   - Poster
-	   - Title
-	   - Release year
-	   - Genres
-	   - Director
-	   - Cast
-	   - Plot
-	   - Rating
-	   - Link to watch
-	   - Trailer link
+   - Poster
+   - Title
+   - Release year
+   - Genres
+   - Director
+   - Cast
+   - Plot
+   - Rating
+   - Link to watch
+   - Trailer link
 	 
 	 
 	   
